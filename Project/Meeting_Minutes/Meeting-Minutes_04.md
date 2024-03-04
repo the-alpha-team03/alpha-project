@@ -18,3 +18,4 @@ Meeting Minutes (03/03/2024) 6PM - 9PM (In-person)
 ## Contributors 
 * Likith Pulluri
 * Naveena Balineni
+* Jashwanth Reddy Middela
