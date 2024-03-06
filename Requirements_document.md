@@ -2,30 +2,30 @@
 
  ## Functional Requirements:
 
-  U.1. User Registration:
-  * U.1.1 Users should be able to register with the required information including name,age,mobile-numnber,DOB,address,email and password.
-  * U.1.2 Proper error messages should be displayed if registration fails due to invalid input.
-  * U.1.3 Registered users should be able to sign in using valid credentials.
-  * U.1.4 Login Button: Triggers user authentication, redirects to dashboard or displays error.
-  * U.1.5 SignUp Button: Redirects to registration, handles input and registration process.
-      
-  U.2. Searching and Filtering:
-  * U.2.1 Enable job search by job title, location, industry, salary range, and keyword.
-  * U.2.2 Implement filters for refining search results by job type.
-  * U.2.3 Provide a user-friendly interface for users to easily input their search criteria and apply filters to find relevant job opportunities.
-      
-  U.3. Job listing and Details:
-  * U.3.1 Display job postings with key details: title,salary range,category, company, email and description.
-  * U.3.2 Allow users to access complete job descriptions, including responsibilities, requirements, qualifications, benefits, and instructions.
-     
-  U.4. Employer management:
-  * U.4.1 User registration and profile management for employers.
-  * U.4.2 Posting and managing job listings.
-  * U.4.3 Enable employers to edit and delete job postings.
+  R.1. User Registration:
+  * R.1.1 Users should be able to register with the required information including name, age, mobile number, DOB, address, email and password.
+  * R.1.2 Proper error messages should be displayed if registration fails due to invalid input.
+  * R.1.3  Registered users should be able to sign in using valid credentials.
+  * R.1.4  Login Button: Triggers user authentication, redirects to the dashboard or displays error.
+  * R.1.5 SignUp Button: Redirects to registration, handles input and registration process.
 
-  U.5. Settings and Security:
-  * U.5.1 Display user information in the settings section, allowing users to update their details.
-  * U.5.2 Include a logout option for users to securely log out of their accounts.
+  R.2. Searching and Filtering:
+  * R.2.1 Enable job search by job title, location, industry, salary range, and keyword.
+  * R.2.2 Implement filters for refining search results by job type.
+  * R.2.3 Provide a user-friendly interface for users to easily input their search criteria and apply filters to find relevant job opportunities.
+ 
+  R.3. Job listing and Details:
+  * R.3.1 Display job postings with key details: title, salary range, category, company, email and description.
+  * R.3.2 Allow users to access complete job descriptions, including responsibilities, requirements, qualifications, benefits, and instructions.
+
+  R.4. Employer management:
+  * R.4.1 User registration and profile management for employers.
+  * R.4.2 Posting and managing job listings.
+  * R.4.3 Enable employers/Admin to edit and delete job postings.
+
+  R.5. Settings and Security:
+  * R.5.1 Display user information in the settings section, allowing users to update their details.
+  * R.5.2 Include a logout option for users to securely log out of their accounts.
 
  ## Non - Functional Requirements:
 
