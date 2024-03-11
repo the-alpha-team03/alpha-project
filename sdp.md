@@ -30,6 +30,7 @@ Building a functional prototype to validate key features,
 Planning the Sprints.
 Writing the code and implementing features.
 Retrospective meetings to discuss what went well, what could be improved and identifying action items for next sprint.
+Please Note that if any bugs identified in testing phase, fixing of those issues will proceed paralelly along with testing.
 
 * Quality Assurance Testing (03/25/2024 - 04/02/2024):
 Designing test cases and scenarios.
