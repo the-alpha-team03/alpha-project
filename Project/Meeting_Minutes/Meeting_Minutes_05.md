@@ -1,4 +1,4 @@
-Meeting Minutes (03/09/2024) 6PM - 9PM (In-person)
+Meeting Minutes (03/09/2024) 6PM - 8PM (In-person)
 
 
 ## Agenda
@@ -18,3 +18,4 @@ Meeting Minutes (03/09/2024) 6PM - 9PM (In-person)
 
 ## Contributors
  * Naveena Balineni
+ * Jashwanth Reddy Middela
