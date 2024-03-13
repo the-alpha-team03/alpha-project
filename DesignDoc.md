@@ -9,8 +9,10 @@ The Job Finder Application is a platform made to assist admin in posting job lis
 ## Functional Requirements 
 D.1. User Registration:
 * D.1.1 When a user enters all the required details using the form, and click on signup button, Validations will happen (Validating mobile number, date of birth and email) then we will make an api request to the backend. The backend will verify the user details (checking if the email is already registered). If everything goes well, the backend will store the user information in the database and send the successful response to the frontend. It will send a failure response if anything goes wrong.
+  <img src="Project/Register.png" alt="Alt text" width="500" height="500">
 * D.1.2 If the backend sends the failure response with error message in it, The frontend will display the error message which is received from backend.
 * D.1.3 After the user is registered, Then the user will be able to login with the correct credentials. When user clicks on login button after entering the details, Then it sends the details (entered by the user) to the backend. Then backend will verify the user credentials (by looking to the database). If the details are correct, the backend will send a successful response, or else a failure response.
+  <img src="Project/UserLogin.png" alt="Alt text" width="500" height="500">
 * D.1.4: If the response is success, the frontend will redirect the user to the home page. If the front-end get a failure response from the backend, The front-end will display an error.
 
 D.2 Searching and Filtering:
@@ -21,7 +23,8 @@ D.3 Job Listing and Details:
 * D.3.1: Whenever user clicks on any job, The frontend will display all the information about job in a new page in detail.
  
 D.4 Employer management:
-* D.4.1: The Admin can manage the users and user profiles. There will be some pages, those are hidden from normal users. Only Admin can access the admin related pages(Admin can Create,Update and Delete any user using User interface).
+* D.4.1: The Admin can signup ,login and manage the users and user profiles. There will be some pages, those are hidden from normal users. Only Admin can access the admin related pages(Admin can Create,Update and Delete any user using User interface).
+  <img src="Project/AdminLogin.png" alt="Alt text" width="500" height="500">
 * D.4.2: Admin will upload any new job using create-job page, where admin enters the job details like title, salary range, category,company details etc,. When Admin clicks on submit/upload button, all the job details sent to the backend. The backend will store the job details in the database and sends the success response. If anything goes wrong, the backend will send the failure response.
 * D.4.3: There will be separate pages (accessible only to the Admins) to edit the job and delete it.  
 
