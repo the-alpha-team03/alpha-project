@@ -34,7 +34,8 @@ D.5 Settings and Security:
 * D.5:2: When user clicks on logout button, The session will the destroyed and redirected to the login page.
 
 # Front-end
-* Language: Python • Framework: Flask
+* Language: Python
+* Framework: Flask
 * Libraries used in Frontend: • Flask • Jinja2 • Flask-WTF • WTForms • Requests
 # Database:
 * MYsql
