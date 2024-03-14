@@ -9,6 +9,7 @@ The Job Finder Application is a platform made to assist admin in posting job lis
 ## Functional Requirements 
 D.1. User Registration:
 * D.1.1 When a user enters all the required details using the form, and click on signup button, Validations will happen (Validating mobile number, date of birth and email) then we will make an api request to the backend. The backend will verify the user details (checking if the email is already registered). If everything goes well, the backend will store the user information in the database and send the successful response to the frontend. It will send a failure response if anything goes wrong.
+  <img src="Project/LoginFlowChart.png" alt="Alt text" width="500" height="500">
   <img src="Project/Register.png" alt="Alt text" width="500" height="500">
 * D.1.2 If the backend sends the failure response with error message in it, The frontend will display the error message which is received from backend.
 * D.1.3 After the user is registered, Then the user will be able to login with the correct credentials. When user clicks on login button after entering the details, Then it sends the details (entered by the user) to the backend. Then backend will verify the user credentials (by looking to the database). If the details are correct, the backend will send a successful response, or else a failure response.
