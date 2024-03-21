@@ -42,3 +42,4 @@ Ensuring that the software is correctly configured for deployment.
 Carrying out the deployment according to the deployment plan.
 Developing a rollback plan in case any issues arise during the deployment process.
 Updating documentation, release notes, and user guides to reflect any changes or updates introduced in the new version of the software.
+* MVP Availability : 03/29/24
