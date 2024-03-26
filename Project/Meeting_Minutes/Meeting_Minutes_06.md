@@ -13,3 +13,4 @@ Meeting Minutes (03/09/2024) 6PM - 8PM (In-person)
   * Likith has contributed in Building a Login page(includes Authentication).
 ## Contributors
 * Jashwanth Reddy Middela
+* Likith Pulluri
