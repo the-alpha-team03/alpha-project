@@ -13,3 +13,4 @@ Meeting Minutes (03/22/2024) 6PM - 8PM (In-person)
   * Likith has done Development of Adding a Job API(Back-End) the enables the manager or admins to Post a new job details.
 ## Contributors
 * Naveena Balineni
+* Likith Kumar Pulluri
