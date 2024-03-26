@@ -1,4 +1,4 @@
-Meeting Minutes (03/09/2024) 6PM - 8PM (In-person)
+Meeting Minutes (03/15/2024) 6PM - 8PM (In-person)
 
 ## Agenda
 * Review of the current sprint tasks is underway to assess progress.
